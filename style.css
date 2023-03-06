@@ -1,0 +1,36 @@
+body
+{
+    background-size: cover;;
+}
+
+.heading
+{
+    font-size: 23px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    margin: 0px;
+}
+
+#style , #number_of_objects , #start
+{
+    font-size: 18px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: #ffffff;;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 246, 160);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
